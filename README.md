@@ -9,7 +9,8 @@ A Java-based Library Management System designed to manage books, patrons, and li
 
 ## 📘 Class Diagram
 
-![LMS Class Diagram](image/LMS_Class_Daigram.png)
+![Class Diagram](image/classdaigram.png)
+
 
 The class diagram illustrates the relationships between key components:
 
