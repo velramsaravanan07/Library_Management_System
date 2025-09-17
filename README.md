@@ -61,3 +61,5 @@ Book Reservation with Notification: Reserve books and receive notifications via 
 
 Book Recommendations: Provide personalized recommendations using the Strategy pattern.
 
+_This README prepared for submission PR_
+
